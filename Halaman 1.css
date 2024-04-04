@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(https://i.postimg.cc/MTB2XGcj/Whats-App-Image-2024-04-04-at-10-39-41-PM.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 50%;
+  }
+  
+  .TULISAN {
+    text-align: center;
+    margin-top: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-size: larger;
+  }
+
+  a {
+    display: flexbox;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    padding: 14px 20px;
+  }
+
+  a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
